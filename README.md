@@ -10,3 +10,4 @@ Tested on ERP Odoo v.10
 
 <img src="https://github.com/MakMas/odoo-external-attendance/assets/24442649/fc0b3351-7f01-4aee-9053-d32df46f2a40" width=25% height=25% />
 
+![image](https://github.com/MakMas/odoo-external-attendance/assets/24442649/fd9e2ee5-82cc-417e-98ef-1f0d5c0d8856)
